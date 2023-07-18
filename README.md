@@ -14,7 +14,7 @@ AGLLNet Image enhancement : https://github.com/yu-li/AGLLNet
 
 Roboflow dataset : https://app.roboflow.com/sunway-university/dangerous-road-objects
 
-Yolov5 : https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
+Yolov5 : https://colab.research.google.com/drive/1KVPLN4MYiM1GA6CgghhKvDvguzzPCJlX?usp=sharing
 
 
 Results and discussion
